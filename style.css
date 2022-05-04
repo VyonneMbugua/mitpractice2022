@@ -1,0 +1,62 @@
+.fruits{
+    t-align: center;
+    padding: 20px;
+    background-color: #4dff3e;
+    margin: border: 2px solid blue;
+    tex20px;
+    color: black;
+    text-align: center;
+
+}
+.cars{
+    t-align: center;
+    padding: 20px;
+    background-color: #f0ff53;
+    margin: border: 2px solid blue;
+    tex20px;
+    color: black;
+    text-align: center;
+
+
+}
+
+.FRUITS{
+    background-color: #dc3545;
+    font-family: aakar;
+    border: 2px;
+    color: white;
+    text-align: center;
+}
+.friuts{
+    border: 2px solid blue;
+    text-align: center;
+    padding: 20px;
+    background-color: #4dff3e;
+    margin: 20px;
+    color: black;
+    text-align: center;
+
+}
+#Kenya{
+    text-align: center;
+    background-color: #f0ff53;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+}
+#Tanzania{
+    text-align: center;
+    background-color: #d92d20;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+
+}
+#Uganda{
+    text-align: center;
+    background-color: #89fff5;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+
+}

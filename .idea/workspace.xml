@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14e9784f-6a85-4147-80e7-c5c8d165b23c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="289ARloeb6ne3JugPKVNbL3gyD9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Mbugua Vyonne|Desktop/Mbugua_Vyonne/Images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Mbugua Vyonne|Desktop/Mbugua_Vyonne/Images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14e9784f-6a85-4147-80e7-c5c8d165b23c" name="Default Changelist" comment="" />
+      <created>1650618421823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650618421823</updated>
+      <workItem from="1650618425376" duration="4256000" />
+      <workItem from="1650623028612" duration="360000" />
+      <workItem from="1650623447896" duration="351000" />
+      <workItem from="1650874629232" duration="7441000" />
+      <workItem from="1650882984670" duration="8000" />
+      <workItem from="1650951376956" duration="81000" />
+      <workItem from="1650951915965" duration="33000" />
+      <workItem from="1650961168291" duration="10430000" />
+      <workItem from="1651046475382" duration="436000" />
+      <workItem from="1651046939402" duration="11000" />
+      <workItem from="1651047111053" duration="3529000" />
+      <workItem from="1651050804811" duration="2547000" />
+      <workItem from="1651053430230" duration="3294000" />
+      <workItem from="1651124665066" duration="14000" />
+      <workItem from="1651134120172" duration="440000" />
+      <workItem from="1651134673792" duration="146000" />
+      <workItem from="1651134872074" duration="111000" />
+      <workItem from="1651135043149" duration="4134000" />
+      <workItem from="1651139207778" duration="4673000" />
+      <workItem from="1651642614635" duration="41000" />
+      <workItem from="1651642704634" duration="24000" />
+      <workItem from="1651643215915" duration="185000" />
+      <workItem from="1651643444405" duration="24000" />
+      <workItem from="1651652083495" duration="188000" />
+      <workItem from="1651652821610" duration="161000" />
+      <workItem from="1651653013485" duration="711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="370" width="471" height="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1650618587349">
+      <screen x="0" y="0" width="1280" height="998" />
+    </state>
+    <state x="399" y="370" width="471" height="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.998@0.0.1280.998" timestamp="1650618587349" />
+    <state x="303" y="217" key="search.everywhere.popup" timestamp="1651642629453">
+      <screen x="0" y="0" width="1280" height="998" />
+    </state>
+    <state x="303" y="217" key="search.everywhere.popup/0.0.1280.998@0.0.1280.998" timestamp="1651642629453" />
+  </component>
+</project>
