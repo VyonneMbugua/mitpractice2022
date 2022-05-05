@@ -4,7 +4,9 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14e9784f-6a85-4147-80e7-c5c8d165b23c" name="Default Changelist" comment="" />
+    <list default="true" id="14e9784f-6a85-4147-80e7-c5c8d165b23c" name="Default Changelist" comment="">
+      <change beforePath="$USER_HOME$/Mbugua Vyonne|Desktop/Mbugua_Vyonne/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/Mbugua Vyonne|Desktop/Mbugua_Vyonne/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +24,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Mbugua Vyonne|Desktop/Mbugua_Vyonne" />
   </component>
   <component name="ProjectId" id="289ARloeb6ne3JugPKVNbL3gyD9" />
   <component name="ProjectViewState">
@@ -84,6 +89,8 @@
       <workItem from="1651652083495" duration="188000" />
       <workItem from="1651652821610" duration="161000" />
       <workItem from="1651653013485" duration="711000" />
+      <workItem from="1651657985597" duration="1011000" />
+      <workItem from="1651728329633" duration="8000" />
     </task>
     <servers />
   </component>
